@@ -1,1 +1,2 @@
-# Life-Expectancy
+# Life-Expectancy 
+Life expectancy refers to the number of years a person is expected to live based on the statistical average. It depends on the geographical context of the area. Before the modernization of the world, life expectancy was around 30 years in all parts of the world. Life expectancy increased at the beginning of the 19th century but until there are the same countries while it remains low in the rest of the world.
